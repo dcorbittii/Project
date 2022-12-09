@@ -1,0 +1,84 @@
+INDEX
+
+img{padding-left: 30px;}
+h1{
+font-size: 50;
+font-style: italic;
+color: rgb(0, 140, 255)}
+
+img{width: 450px;
+padding-left: 30px;padding-top: 20;}
+
+div{border-radius: 10px;
+background-color: sandybrown;}
+body{color: #000000;}
+
+p{ padding-left: 5px;
+    font-size: 20;
+padding-right: 600px;}
+
+
+
+h3{padding-left: 5px;
+    font-size: 30;}
+a{padding-left: 10px;}
+
+
+ABOUT
+    h3{padding-left: 600px;}
+    h1{
+       font-size: 30;
+    
+       color: red
+   
+    }
+    img{padding-left: 3px;
+      width: 450px;
+   border-radius: 10px;}
+   
+    div{border-radius: 30px;
+       background-color: sandybrown;}
+       body{color: #000000;}
+
+       p{padding-left: 300;
+        padding-right: 300;
+        font-size: 20;}
+     h3{font-size: 30;}
+ 
+     EVENTS
+    
+    h1{
+       font-size: 30;
+    
+       color: red
+   
+    }
+    img{width: 450px;
+   border-radius: 10px;}
+   
+    div{border-radius: 5px;
+       background-color: sandybrown;}
+       body{color: #000000;}
+       p{padding-left: 10px;
+        font-size: 20;}
+     h3{font-size: 30;}
+
+    
+    
+     CONTACT
+    h1{
+       font-size: 30;
+    
+      color: aqua;
+   
+    }
+    img{width: 450px;
+   border-radius: 10px;}
+   
+    div{border-radius: 5px;
+       background-color: sandybrown;}
+       body{color: #000000;}
+       p{font-size: 100;
+         padding-left: 30px}
+
+    
